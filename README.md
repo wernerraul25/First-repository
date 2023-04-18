@@ -1,2 +1,2 @@
-# First repository
+# First repository studying
  Primeiro repositório em git
